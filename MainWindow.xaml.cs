@@ -21,7 +21,7 @@ namespace csLogin
     public partial class MainWindow : Window
     {
                // Mysql 연결 (문자열 이용)
-        private string connectSql = "server=localhost;database=prj_2025;user=root;password=asf418496";
+        private string connectSql = "server=localhost;database=prj_2025;user=root;password=비밀번호";
 
         public MainWindow()
         {
