@@ -1,7 +1,16 @@
 # csLogin
- c# (wpf, mysql) 를 이용한 로그인 프로그램
+ C#, WPF, MariaDB(Mysql)를 이용하여 간단한 로그인 시스템 제작
 
-- sql
+> 디자인을 위해 WinForm 대신 WPF 를 사용
+> query 에서 인젝션 방지를 위해 수정 필요
+
+<br><br>
+
+## 실행 화면
+![image](https://github.com/user-attachments/assets/dfc32ad1-68d4-4984-be5f-1058a7751cf4)
+
+<br><br>
+## sql
 ```sql
 -- --------------------------------------------------------
 -- 호스트:                          127.0.0.1
